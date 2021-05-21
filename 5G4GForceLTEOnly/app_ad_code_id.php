@@ -11,11 +11,11 @@
 			"adbanner_rect_id":"ca-app-pub-9666127237370790/4030219430",
 			"adinterstial_id":"ca-app-pub-9666127237370790/5135277923",
 			"adnativebanner_id":"ca-app-pub-9666127237370790/1004461221",
-			"adfbbanner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-			"adfbinterstial_id":"YOUR_PLACEMENT_ID",
-			"adfbnative_id":"YOUR_PLACEMENT_ID",
-			"adfbnative_banner_id":"YOUR_PLACEMENT_ID",		
-			"adfbrectangle_banner_id":"YOUR_PLACEMENT_ID"
+			"adfbbanner_id":"2873867732835565_2873868012835537",
+			"adfbinterstial_id":"2873867732835565_2873868559502149",
+			"adfbnative_id":"2873867732835565_2873869059502099",
+			"adfbnative_banner_id":"2873867732835565_2873869339502071",		
+			"adfbrectangle_banner_id":"2873867732835565_2873868839502121"
 			}
 		]
 }
