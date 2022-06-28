@@ -2,8 +2,8 @@
 	"ad_id":
 		[
 			{
-			"g_ad":"0",
-			"fb_ad":"1",
+			"g_ad":"1",
+			"fb_ad":"0",
 			"adpub_id":"pub-3940256099942544",
 			"adapp_id":"ca-app-pub-3940256099942544~3347511713",
 			"adappopen_id":"/21753324030,22764862903/com.alfast.force4g.mode_AppOpen",
