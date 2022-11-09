@@ -6,7 +6,7 @@
 			"fb_ad":"0",
 			"adpub_id":"pub-9666127237370790",
 			"adapp_id":"ca-app-pub-9666127237370790~8527728025",
-			"adappopen_id":"/21753324030,22764862903/com.alfast.force4g.mode_AppOpen",
+			"adappopen_id":"ca-app-pub-9666127237370790/3962714280",
 			"adbanner_id":"ca-app-pub-9666127237370790/6970067290",
 			"adbanner_rect_id":"ca-app-pub-9666127237370790/2571657287",
 			"adinterstial_id":"/21753324030,22764862903/com.alfast.force4g.mode_Interstitial",
